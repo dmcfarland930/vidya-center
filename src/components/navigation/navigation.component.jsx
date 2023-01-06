@@ -1,5 +1,4 @@
-import { Fragment } from "react";
-import { Component } from "react";
+import { Fragment, Component } from "react";
 import { Outlet, Link } from "react-router-dom";
 import { ReactComponent as CrwnLogo } from "../../assests/crown.svg";
 
