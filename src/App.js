@@ -15,7 +15,7 @@ class App extends Component {
       <Routes>
         <Route path='/' element={<Navigation />}>
           <Route index element={<Home />}/>
-          <Route path='shop' element={<Shop />}/>
+          <Route path='shop/*' element={<Shop />}/>
           <Route path='checkout' element={<Checkout />}/>
           <Route path='sign-in' element={<Authentication />}/>
         </Route>
