@@ -36,7 +36,6 @@ class Home extends Component {
       ],
       searchField: ''
     };
-    console.log('constructor');
   }
   
   render(){
