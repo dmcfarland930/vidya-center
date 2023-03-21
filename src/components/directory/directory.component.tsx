@@ -34,13 +34,13 @@ const categories: DirectoryCategory[] = [
     "id": 4,
     "title": "Playstation",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/PSX-Console-wController.jpg",
-    "route": "/shop/ps"
+    "route": "/shop/playstation"
   },
   {
     "id": 5,
     "title": "Playstation 2",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sony-PlayStation-2-30001-wController-L.jpg/1024px-Sony-PlayStation-2-30001-wController-L.jpg",
-    "route": "/shop/ps2"
+    "route": "/shop/playstation2"
   }
 ];
 
