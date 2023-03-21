@@ -14,33 +14,33 @@ export type DirectoryCategory = {
 const categories: DirectoryCategory[] = [
   {
     "id": 1,
-    "title": "hats",
-    "imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
-    "route": "/shop/hats"
+    "title": "NES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/NES-Console-Set.jpg",
+    "route": "/shop/nes"
   },
   {
     "id": 2,
-    "title": "jackets",
-    "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png",
-    "route": "/shop/jackets"
+    "title": "SNES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SNES-Mod1-Console-Set.jpg/1280px-SNES-Mod1-Console-Set.jpg",
+    "route": "/shop/snes"
   },
   {
     "id": 3,
-    "title": "sneakers",
-    "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png",
-    "route": "/shop/sneakers"
+    "title": "N64",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nintendo-64-wController-L.jpg",
+    "route": "/shop/n64"
   },
   {
     "id": 4,
-    "title": "womens",
-    "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png",
-    "route": "/shop/womens"
+    "title": "Playstation",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/PSX-Console-wController.jpg",
+    "route": "/shop/ps"
   },
   {
     "id": 5,
-    "title": "mens",
-    "imageUrl": "https://i.ibb.co/R70vBrQ/men.png",
-    "route": "/shop/mens"
+    "title": "Playstation 2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sony-PlayStation-2-30001-wController-L.jpg/1024px-Sony-PlayStation-2-30001-wController-L.jpg",
+    "route": "/shop/ps2"
   }
 ];
 

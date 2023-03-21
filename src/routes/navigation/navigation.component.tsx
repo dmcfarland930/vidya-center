@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import { Outlet } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
-import { ReactComponent as CrwnLogo } from "../../assests/crown.svg";
+import { ReactComponent as GLogo } from "../../assests/gcontroller.svg";
 import { selectIsCartOpen } from "../../store/cart/cart.selector";
 import { selectCurrentUser } from "../../store/user/user.selector";
 
@@ -23,7 +23,7 @@ const Navigation = () => {
     <Fragment>
       <NavigationContainer>
         <LogoContainer to='/'>
-          <CrwnLogo/>
+          <GLogo/>
         </LogoContainer>
         <NavLinks>
           <NavLink to='/shop'>
