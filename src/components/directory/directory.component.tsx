@@ -40,7 +40,7 @@ const categories: DirectoryCategory[] = [
     "id": 5,
     "title": "Playstation 2",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sony-PlayStation-2-30001-wController-L.jpg/1024px-Sony-PlayStation-2-30001-wController-L.jpg",
-    "route": "/shop/playstation2"
+    "route": "/shop/playstation%202"
   }
 ];
 
